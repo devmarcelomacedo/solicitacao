@@ -1,0 +1,85 @@
+Body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    background-color: rgb(71, 187, 233);
+    width: auto;
+    padding: 15px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+.rh {
+    background-color:  rgb(71, 187, 233);
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    font-weight: 700;
+}
+
+.cd {
+    background-color: rgb(69, 205, 247);
+    width: auto;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 5px;
+    padding: 7px;
+    font-weight: 700;
+    
+}
+
+.ef {
+    background-color: rgb(90, 175, 224);
+    color: rgb(241, 245, 247);
+    padding: 7px;
+    border-radius: 5px;
+    font-weight: 700;
+    
+}
+
+fieldset {
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
+
+input {
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+#idnome {
+    margin-bottom: 15px;
+    font-size: medium;
+}
+
+#ie-mail{
+    margin-bottom: 15px;
+    font-size: medium; 
+}
+
+#envie {
+    font-size: medium; 
+} 
+
+#limp {
+    font-size: medium;
+}
+
+#ides {
+    border-radius: 5px;
+    padding: 15px;
+    font-size: medium;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
